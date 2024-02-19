@@ -3,15 +3,15 @@
 #### Description:
 Its ChatApp where you can do chat on real-time. Its Display all the registered members.
 
-###Features
+# Features
 
-# Register and Login
-# Search User
-# Real-Time Chat with display active and non active members
+### Register and Login
+### Search User
+### Real-Time Chat with display active and non active members
 
 ---
 
-#### Screen shots of our project  :
+### Screen shots of our project  :
 <h5>Signup Page</h5>
 
 ![image](https://github.com/rishunayak/chat-app/assets/57229844/2f8713ec-665a-492b-8850-c141ddcb5898)
