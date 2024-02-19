@@ -1,0 +1,27 @@
+✨Chat-App✨
+---
+#### Description:
+Its ChatApp where you can do chat on real-time.
+
+---
+
+#### Screen shots of our project  :
+<h5>Signup Page</h5>
+
+![image](https://github.com/rishunayak/chat-app/assets/57229844/2f8713ec-665a-492b-8850-c141ddcb5898)
+
+<h5>Login Page</h5>
+
+![image](https://github.com/rishunayak/chat-app/assets/57229844/02440348-ffc5-4b8d-8b67-baf0fd7c5926)
+
+<h5>Home Page</h5>
+
+![image](https://github.com/rishunayak/chat-app/assets/57229844/06e27b98-58c6-43f4-b4e1-a4531509b48f)
+
+💫Tech & Tools Used :
+
+Frontend Tech Stack: ReactJs, Javascript, Tailwind CSS, React-hot-toast , React-icons, React-redux, React-router-dom, Socket.io, Daisyui  etc.
+
+Backend Tech Stack: Mongo DB, Socket.io, Cookie Parser, Bcryptjs, JWT, NodeJs and ExpressJs
+
+### Solo Project Completed in 3 days
