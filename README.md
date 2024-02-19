@@ -1,7 +1,13 @@
 ✨Chat-App✨
 ---
 #### Description:
-Its ChatApp where you can do chat on real-time.
+Its ChatApp where you can do chat on real-time. Its Display all the registered members.
+
+###Features
+
+# Register and Login
+# Search User
+# Real-Time Chat with display active and non active members
 
 ---
 
