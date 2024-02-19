@@ -19,7 +19,7 @@ export const SocketContextProvider=({children})=>
     {
         if(authUser)
         {
-            const socket=io("http://localhost:8080",{
+            const socket=io("https://chat-app-iy03.onrender.com",{
                 query:{userId:authUser._id}
             });
             setSocket(socket);
