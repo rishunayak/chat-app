@@ -22,7 +22,8 @@ Its ChatApp where you can do chat on real-time. Its Display all the registered m
 
 <h5>Home Page</h5>
 
-![image](https://github.com/rishunayak/chat-app/assets/57229844/06e27b98-58c6-43f4-b4e1-a4531509b48f)
+![image](https://github.com/rishunayak/chat-app/assets/57229844/0b56b5f9-5d9a-412c-b67b-be36faa7b43f)
+
 
 💫Tech & Tools Used :
 
